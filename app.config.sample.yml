@@ -1,0 +1,21 @@
+DATABASE_NAME: kafka-cluster-go
+DATABASE_USER: root
+DATABASE_HOST: localhost
+DATABASE_PASSWORD: root
+DATABASE_PORT: 3306
+PORT: 18001
+
+REDIS_HOST: localhost:6379
+REDIS_NAME: 0
+REDIS_PASSWORD:
+
+SECRET: 
+SECRET_STATIC: 
+
+NATS_HOST: localhost:4222
+RABBIT_HOST: amqp://guest:guest@localhost:5672?heartbeat=60
+
+AWS_ACCESS_KEY: 
+AWS_SECRET_KEY: 
+AWS_REGION: ap-southeast-1
+AWS_BUCKET: kafka-cluster-go
